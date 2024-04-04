@@ -7,3 +7,7 @@ created file
 commit file
 push file
 adding more content
+
+practicing jenkins webhook job
+jenkins connected git automatically and build the edited code
+in one repository we can create 20 webhooks
